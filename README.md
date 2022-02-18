@@ -11,5 +11,10 @@ This report determines the number of retiring employees by title and identifies 
 * It was necessary to filter out the duplicate employee entries by not including entries that had an employment 'to_date' in the past therefore displaying employees with their current title.
 <img width="532" alt="Unique Titles Data Query" src="https://user-images.githubusercontent.com/96451672/154733482-a97b8c28-4252-4ef5-81b0-23bdb7afd315.png">
 
-* With the titles now being narrowed down, the data on employee titles could be consolidated into a table from a query that counted the number of unique titles.
+* With the titles now being narrowed down, the data on employee titles could be consolidated into a table from a query that counted the number of unique titles. The results show that the vast majority of those retiring are in senior roles.
 <img width="253" alt="Retiring Titles Data Query" src="https://user-images.githubusercontent.com/96451672/154734972-7bcb20c9-7e4c-471a-a783-e974a71c9cc8.png">
+
+* Data was queried to determine those eligible for the mentorship program based on their birth date displaying only those still at the company.
+<img width="789" alt="Mentorship Eligibility Data Query" src="https://user-images.githubusercontent.com/96451672/154737324-1abb52f2-e0be-4d4e-b662-83dc496a3b19.png">
+
+## Summary
