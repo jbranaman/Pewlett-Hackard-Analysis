@@ -18,3 +18,5 @@ This report determines the number of retiring employees by title and identifies 
 <img width="789" alt="Mentorship Eligibility Data Query" src="https://user-images.githubusercontent.com/96451672/154737324-1abb52f2-e0be-4d4e-b662-83dc496a3b19.png">
 
 ## Summary
+
+After querying the number of unique titles of those eligible for the mentorship program, the majority of those eligible are in 'Senior Staff' (570 employees) and 'Engineer' (502 employees) roles. It can also be noted that those eligible for the mentorship program generally have the same amount of experience at the company as those retiring as their hire dates fall in the same range. It can be concluded that a large amount of hiring into senior roles needs to occur as soon as possible to add more employees to replace those retiring rather than solely relying on other younger tenured employees to replace them.
