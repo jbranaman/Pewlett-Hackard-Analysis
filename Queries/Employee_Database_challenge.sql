@@ -11,8 +11,6 @@ ON (e.emp_no = t.emp_no)
 WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
 ORDER BY emp_no ASC;
 
-DROP TABLE unique_titles, retiring_titles
-
 SELECT DISTINCT ON (rt.emp_no) rt.emp_no,
 rt.first_name,
 rt.last_name,
